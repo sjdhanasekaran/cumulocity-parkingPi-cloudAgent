@@ -6,7 +6,7 @@ parking-pi-cloud-agent-java/src/main/java/com/softwareag/parkingpi/agent/FoundDe
 replace "dhdon0tdelete" with your pi Serial number
 ```
 # And also change
-<username> <password> <host> to your credential whereever you see like this..
+username,password,host  to your credential whereever you see like this..
   
   
   :)
